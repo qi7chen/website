@@ -1,4 +1,0 @@
-[[redirects]]
-  from = "/* go-get=1"
-  to = "/index.html"
-  status = 200
