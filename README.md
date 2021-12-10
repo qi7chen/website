@@ -2,7 +2,9 @@
 
 ### Site
 
-[netlify](https://app.netlify.com/)个人网站
+https://qchen.fun
+
+[netlify](https://qchenfun.netlify.app/)个人网站
 
 ### Vanity Go Import
 
