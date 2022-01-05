@@ -1,3 +1,4 @@
 /fatchoy/* go-get=1 /goimport/fatchoy.html 200
+/backend/* go-get=1 /goimport/backend.html 200
 /simplemod/* go-get=1 /goimport/simplemod.html 200
 
