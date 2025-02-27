@@ -2,8 +2,6 @@
 
 ### Site
 
-https://qchen.fun
-
 [netlify](https://qchenfun.netlify.app/)个人网站
 
 ### Vanity Go Import
